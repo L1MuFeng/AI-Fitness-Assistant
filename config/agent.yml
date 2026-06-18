@@ -1,0 +1,3 @@
+local_user_id: local
+user_data_dir: data/users
+demo_data_path: data/external/10用户10天训练与补剂数据.csv

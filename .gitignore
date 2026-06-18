@@ -1,0 +1,25 @@
+# 环境变量
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# 向量库与日志
+chroma_db/
+logs/
+md5.text
+
+# 本地个人数据（不上传 Git，仅保留在本机）
+data/users/local/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# 备份
+data/backups/
